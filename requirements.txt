@@ -1,20 +1,19 @@
+# Tested on ARM device:
 # Python 3.12.10
 # pip 26.0.1
+# PyTorch index: https://download.pytorch.org/whl/cpu
 
-# PyTorch index for ARM
-# https://download.pytorch.org/whl/cpu
-
-numpy==2.4.3
-scipy==1.16.3
-pandas==2.3.3
-lxml==6.0.2
-scikit-learn==1.8.0
-joblib==1.5.3
-statsmodels==0.14.6
-lifelines==0.30.3
-pygam==0.12.0
-torch==2.7
-pytorch-lightning==2.6.1
-torchmetrics==1.9.0
-ISLP==0.4.1
-xgboost==3.2.0
+numpy
+scipy
+pandas
+lxml
+scikit-learn
+joblib
+statsmodels
+lifelines
+pygam
+torch
+pytorch-lightning
+torchmetrics
+ISLP
+xgboost

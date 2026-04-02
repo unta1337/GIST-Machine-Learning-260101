@@ -1,5 +1,7 @@
 # 2026학년도 봄학기 광주과학기술원 기계학습
 ## Quick Start
+> `requirements.txt`의 종속성은 ARM 기기에서 정상 작동함을 확인한 버전으로, 다른 최신 버전에서 정상적인 설치가 가능하다면 해당 버전을 사용해도 무방하다.  
+
 ```pwsh
 > python -m venv ml
 > .\ml\Scripts\activate
