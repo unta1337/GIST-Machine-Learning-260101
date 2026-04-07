@@ -16,7 +16,7 @@ traffic_density -> cat
 order_type -> cat
 vehicle_type -> cat
 is_festival -> cat
-Metropolitian -> cat
+city -> cat
 
 delivery_time -> num
 
@@ -40,6 +40,6 @@ delivery_time -> num
 "order_type",
 "vehicle_type",
 "is_festival",
-"Metropolitian",
+"city",
 
 "delivery_time",
