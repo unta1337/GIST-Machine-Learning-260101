@@ -1,0 +1,45 @@
+rider_age -> num
+rider_rating -> num
+restaurant_latitude -> num
+restaurant_longitude -> num
+delivery_latitude -> num
+delivery_longitude -> num
+vehicle_condition -> num
+num_orders -> num
+
+order_date -> date (dd-mm-yyyy)
+order_time -> time (hh:mm)
+pickup_time -> time (hh:mm)
+
+weather -> cat
+traffic_density -> cat
+order_type -> cat
+vehicle_type -> cat
+is_festival -> cat
+Metropolitian -> cat
+
+delivery_time -> num
+
+=====
+
+"rider_age",
+"rider_rating",
+"restaurant_latitude",
+"restaurant_longitude",
+"delivery_latitude",
+"delivery_longitude",
+"vehicle_condition",
+"num_orders",
+
+"order_date",
+"order_time",
+"pickup_time",
+
+"weather",
+"traffic_density",
+"order_type",
+"vehicle_type",
+"is_festival",
+"Metropolitian",
+
+"delivery_time",
